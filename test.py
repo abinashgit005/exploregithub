@@ -1,2 +1,2 @@
-print "hello world!"
-print "santosh edits "
+print("hello world!")
+print("santosh edits")
